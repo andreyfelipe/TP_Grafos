@@ -1,0 +1,15 @@
+C:\Users\Andrey\Desktop\TP_Grafos\TP_Grafos\bin\Debug\net8.0\TP_Grafos.exe
+C:\Users\Andrey\Desktop\TP_Grafos\TP_Grafos\bin\Debug\net8.0\TP_Grafos.deps.json
+C:\Users\Andrey\Desktop\TP_Grafos\TP_Grafos\bin\Debug\net8.0\TP_Grafos.runtimeconfig.json
+C:\Users\Andrey\Desktop\TP_Grafos\TP_Grafos\bin\Debug\net8.0\TP_Grafos.dll
+C:\Users\Andrey\Desktop\TP_Grafos\TP_Grafos\bin\Debug\net8.0\TP_Grafos.pdb
+C:\Users\Andrey\Desktop\TP_Grafos\TP_Grafos\obj\Debug\net8.0\TP_Grafos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\Desktop\TP_Grafos\TP_Grafos\obj\Debug\net8.0\TP_Grafos.AssemblyInfoInputs.cache
+C:\Users\Andrey\Desktop\TP_Grafos\TP_Grafos\obj\Debug\net8.0\TP_Grafos.AssemblyInfo.cs
+C:\Users\Andrey\Desktop\TP_Grafos\TP_Grafos\obj\Debug\net8.0\TP_Grafos.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\TP_Grafos\TP_Grafos\obj\Debug\net8.0\TP_Grafos.sourcelink.json
+C:\Users\Andrey\Desktop\TP_Grafos\TP_Grafos\obj\Debug\net8.0\TP_Grafos.dll
+C:\Users\Andrey\Desktop\TP_Grafos\TP_Grafos\obj\Debug\net8.0\refint\TP_Grafos.dll
+C:\Users\Andrey\Desktop\TP_Grafos\TP_Grafos\obj\Debug\net8.0\TP_Grafos.pdb
+C:\Users\Andrey\Desktop\TP_Grafos\TP_Grafos\obj\Debug\net8.0\TP_Grafos.genruntimeconfig.cache
+C:\Users\Andrey\Desktop\TP_Grafos\TP_Grafos\obj\Debug\net8.0\ref\TP_Grafos.dll
